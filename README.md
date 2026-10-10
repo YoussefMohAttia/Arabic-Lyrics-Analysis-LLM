@@ -172,8 +172,6 @@ Arabic-Lyrics-Analysis-LLM/
 ├── song_embeddings.csv                       # AraBERT embedding per song
 ├── song_similarities.csv                     # Top-5 most similar songs per track
 ├── song_clusters.csv                         # K-Means cluster per song
-├── images/                                   # Figures used in this README
-├── docs/                                     # Project paper (PDF)
 └── Progress_Reports/                         # Course progress reports
 ```
 
